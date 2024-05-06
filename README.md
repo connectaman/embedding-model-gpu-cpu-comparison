@@ -4,7 +4,7 @@
 ##### Embedding Model : BGE-large-en-1.5
 ##### VM used for this experiment : g4dn.xlarge (AWS EC2)
 
-| Tokens Length |  GPU | CPU | ONNX cpu | ONNX GPU |
+| Tokens Length |  GPU (sec) | CPU (sec) | ONNX cpu (sec) | ONNX GPU (sec) |
 | --- | --- | --- | --- | --- |
 | 1134 | 0.25 | 1.62 | 0.57 | 0.33 |
 | 362 | 0.07 | 1.16 | 0.35 | 0.02 |
