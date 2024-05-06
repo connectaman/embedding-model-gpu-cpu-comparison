@@ -1,0 +1,15 @@
+python-multipart
+fastapi==0.89.1
+gunicorn
+numpy
+pandas
+pydantic
+requests
+uvicorn>=0.15.0,<0.16.0
+torch==1.12.1
+sentence_transformers==2.2.0
+transformers==4.28.1
+onnxruntime==1.16.3
+tiktoken==0.5.1
+timing-asgi==0.3.1
+asgi-correlation-id==4.3.1
